@@ -2,7 +2,7 @@
 
 ForecastFlow is a web application built with Streamlit that visualizes solar and wind power forecasts from Elexon. The app uses the [elexonpy](https://pypi.org/project/elexonpy/) package, ForecastFlow fetches and displays forecast data through interactive graphs, making it easier to interpret and analyze solar and wind power trends.
 
-#Features
+## Features
 1. Real-Time Data: Access up-to-date solar and wind power forecast data.
 2. Customizable Date Ranges: Filter data by specific date and time ranges.
 3. Interactive Visualizations: Explore forecast data through dynamic graphs and charts.
