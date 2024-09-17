@@ -17,6 +17,16 @@ ForecastFlow requires the following Python packages:
 4. `matplotlib` – For creating static, interactive, and animated visualizations.
 5. `plotly` – For interactive graphing.
 
+## Project Structure
+
+ForecastFlow/
+│
+├── SequenceDiagramElexon.png
+├── elexon_solar-forecast.py    
+├── requirements.txt            
+└── README.md                   
+
+
 Here’s a preview of the dashboard: 
 
 ![image](https://github.com/user-attachments/assets/3f4b1dfd-af3e-4e70-a05c-21d1feb6546f) Below is the sequence diagram that illustrates the process flow of the application:
