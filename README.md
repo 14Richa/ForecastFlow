@@ -18,13 +18,15 @@ ForecastFlow requires the following Python packages:
 5. `plotly` – For interactive graphing.
 
 ## Project Structure
+
 ```plaintext
 ForecastFlow/
 │
 ├── SequenceDiagramElexon.png
 ├── elexon_solar-forecast.py    
 ├── requirements.txt            
-└── README.md                   
+└── README.md
+```                  
 
 
 Here’s a preview of the dashboard: 
