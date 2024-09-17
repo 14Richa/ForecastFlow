@@ -18,7 +18,7 @@ ForecastFlow requires the following Python packages:
 5. `plotly` – For interactive graphing.
 
 ## Project Structure
-
+```plaintext
 ForecastFlow/
 │
 ├── SequenceDiagramElexon.png
